@@ -1,4 +1,5 @@
 package struts; 
+//这是Action类
 import cmysql.Cmysql;
 import jdk.nashorn.internal.ir.RuntimeNode.Request;
 

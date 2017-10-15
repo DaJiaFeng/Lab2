@@ -1,4 +1,5 @@
 package cmysql;
+//连接数据库的方法
 import java.sql.*;
 public class Cmysql {
 	 Connection con =null;
